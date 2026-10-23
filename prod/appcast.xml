@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Kontext</title>
+        <item>
+            <title>1.0.7</title>
+            <pubDate>Fri, 23 Oct 2026 18:37:33 +0700</pubDate>
+            <sparkle:version>10007</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/trquth/base-kontext-release/releases/download/prod-updates/Kontext.1.0.7.zip" length="12981874" type="application/octet-stream" sparkle:edSignature="YxXyiLNz/Y0iFtMtt9t14WgCa3XttwpvMj0LDcaRqFSoUL851V/PkAXRMvvJGjNGx2v4RpWdT1vQW/SrNoUVBQ=="/>
+        </item>
+    </channel>
+</rss>
